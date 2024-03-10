@@ -33,6 +33,3 @@ Feel free to clone this repository and explore the SQL scripts. Here's how you c
 ## Contributing
 
 Contributions are not expected for this repository as it primarily serves as a personal reference. However, if you have suggestions or improvements, feel free to open an issue.
-
-
-This README is focused on simplicity and aims to provide users with a quick overview of what the repository contains and how to use it. Feel free to adjust it further to suit your preferences.
